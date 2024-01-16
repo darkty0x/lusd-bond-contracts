@@ -1,0 +1,23 @@
+# Editor temp files
+*~
+
+# macOS Finder attribute files
+.DS_Store
+
+.idea
+
+# Python virtual environments
+.venv
+
+# Build outputs
+dist
+cache
+
+# Node.JS dependencies
+node_modules
+
+# Symlinks
+lusd
+
+# env vars
+.env
